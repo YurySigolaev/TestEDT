@@ -14655,6 +14655,37 @@
     <items xsi:type="form:FormGroup">
       <name>Группа1</name>
       <id>1194</id>
+      <items xsi:type="form:Button">
+        <name>Команда2</name>
+        <id>1197</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+        <extendedTooltip>
+          <name>Команда2РасширеннаяПодсказка</name>
+          <id>1198</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
+          <type>Label</type>
+          <autoMaxWidth>true</autoMaxWidth>
+          <autoMaxHeight>true</autoMaxHeight>
+          <extInfo xsi:type="form:LabelDecorationExtInfo">
+            <horizontalAlign>Left</horizontalAlign>
+          </extInfo>
+        </extendedTooltip>
+        <type>UsualButton</type>
+        <commandName>Form.Command.Команда2</commandName>
+        <representation>Auto</representation>
+        <autoMaxWidth>true</autoMaxWidth>
+        <autoMaxHeight>true</autoMaxHeight>
+        <placementArea>UserCmds</placementArea>
+        <representationInContextMenu>Auto</representationInContextMenu>
+      </items>
       <items xsi:type="form:Table">
         <name>ТабличнаяЧасть1</name>
         <id>1172</id>
@@ -18246,6 +18277,19 @@
     <action xsi:type="form:FormCommandHandlerContainer">
       <handler>
         <name>Команда1</name>
+      </handler>
+    </action>
+    <currentRowUse>Auto</currentRowUse>
+  </formCommands>
+  <formCommands>
+    <name>Команда2</name>
+    <id>34</id>
+    <use>
+      <common>true</common>
+    </use>
+    <action xsi:type="form:FormCommandHandlerContainer">
+      <handler>
+        <name>Команда2</name>
       </handler>
     </action>
     <currentRowUse>Auto</currentRowUse>
