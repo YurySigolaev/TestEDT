@@ -800,6 +800,51 @@
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
   </tabularSections>
+  <tabularSections uuid="a14fe29d-8605-4d42-a5fb-d8cecf45610d">
+    <producedTypes>
+      <objectType typeId="67205c6e-cd58-4ff3-bb35-78a356b8cdf6" valueTypeId="dae12638-de7b-44fb-87a3-becb44d479ac"/>
+      <rowType typeId="5e293cda-650c-439f-8cf4-7357c1597e81" valueTypeId="db84cff4-099b-45a9-9af3-21c15a1bc536"/>
+    </producedTypes>
+    <name>ТабличнаяЧасть1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Табличная часть1</value>
+    </synonym>
+    <attributes uuid="635ec066-eac9-4642-ae43-adf344a419b1">
+      <name>Дополнительно1</name>
+      <synonym>
+        <key>ru</key>
+        <value>Дополнительно1</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="3bce2f79-ead7-4dd6-abec-ecba46caa42d">
+      <name>Количество1</name>
+      <synonym>
+        <key>ru</key>
+        <value>Количество1</value>
+      </synonym>
+      <type>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>10</precision>
+        </numberQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
   <forms uuid="2c4656d6-cf57-4c78-910f-b24424ffb2cb">
     <name>ФормаЭлемента</name>
     <synonym>
