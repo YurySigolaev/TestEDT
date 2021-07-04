@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:EventSubscription xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0446dbcb-8ae3-4223-95bf-b1b5b4671b11">
+  <name>СинхронизироватьСостоянияЭДОиДО</name>
+  <synonym>
+    <key>ru</key>
+    <value>Синхронизировать состояния ЭДОи ДО</value>
+  </synonym>
+  <source>
+    <types>InformationRegisterRecordSet.СостоянияПоОбъектамУчетаЭДО</types>
+  </source>
+  <event>OnWrite</event>
+  <handler>CommonModule.ОбменСКонтрагентамиДОСлужебный.СинхронизироватьСостоянияЭДДляДО</handler>
+</mdclass:EventSubscription>

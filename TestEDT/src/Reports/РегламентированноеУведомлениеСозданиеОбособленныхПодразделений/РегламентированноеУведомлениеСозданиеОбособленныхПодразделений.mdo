@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="63ef7d03-9fa8-42c9-a594-2f9748397f40">
+  <producedTypes>
+    <objectType typeId="cf5d7b25-96dd-4515-8bdd-06e973c2c0e9" valueTypeId="af1adddf-8f05-4d6e-aea3-cc3143813f1b"/>
+    <managerType typeId="ddd2e2c1-55c1-48ca-9741-4d7d287eebc3" valueTypeId="196071cd-d9cd-436d-ad1d-807c7abb2f0b"/>
+  </producedTypes>
+  <name>РегламентированноеУведомлениеСозданиеОбособленныхПодразделений</name>
+  <synonym>
+    <key>ru</key>
+    <value>Регламентированное уведомление ТС-1</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>CommonForm.ИнформацияОНевозможностиОткрытияУведомления</defaultForm>
+  <forms uuid="e86f9119-7ff0-4916-8595-a2dff12e3577">
+    <name>Форма2014_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма2014 1</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="a222133f-ba4e-4da1-b018-0613fe379c9d">
+    <name>Форма2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сообщение о создании обособленных подразделений </value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="44b9f321-8c7b-4795-b79d-0d410965e4a7">
+    <name>Форма2014_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма2014 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="bfee3cbe-0783-4d47-8618-aa0ee779c9a2">
+    <name>ПараметрыФорма2014_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Параметры форма2014 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="e17e1881-c5dc-420f-be24-77a226fc028a">
+    <name>СхемаВыгрузкиФорма2014_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки форма2014 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="06c7866b-85d6-477c-9736-6fe045dd5c1f">
+    <name>Печать_MXL_Форма2014_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма С-09-3-1</value>
+    </synonym>
+  </templates>
+  <templates uuid="a307a22a-a2e8-4b0a-8453-29b0d608bb31">
+    <name>TIFF_2014_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>TIFF 2014 1</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="4e60987a-7886-4693-9030-e2f383c35243">
+    <name>Титульная_2020</name>
+    <synonym>
+      <key>ru</key>
+      <value>Экранная форма</value>
+    </synonym>
+  </templates>
+  <templates uuid="29cbde74-acde-4a29-9742-7ff15d4ee9fd">
+    <name>СведОП_2020</name>
+    <synonym>
+      <key>ru</key>
+      <value>Экранная форма</value>
+    </synonym>
+  </templates>
+  <templates uuid="625930c2-631c-475e-8b90-62b8093e1023">
+    <name>СпискиВыбора2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списки выбора</value>
+    </synonym>
+  </templates>
+  <templates uuid="4658c0d9-e5a4-48f3-8fd4-45c5378ea5a2">
+    <name>TIFF_2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Шаблон печати</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="e87e940a-659d-4113-87a2-2e6bf72f0331">
+    <name>СхемаВыгрузкиФорма2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки</value>
+    </synonym>
+  </templates>
+  <templates uuid="bbe9bdef-48c4-438c-98d3-d79e09fa77b7">
+    <name>Печать_Форма2020_1_Титульная</name>
+    <synonym>
+      <key>ru</key>
+      <value>Печатный бланк</value>
+    </synonym>
+  </templates>
+  <templates uuid="59a3c972-031d-4f2c-af6a-d80c936e6ef2">
+    <name>Печать_Форма2020_1_СведОП</name>
+    <synonym>
+      <key>ru</key>
+      <value>Печатный бланк</value>
+    </synonym>
+  </templates>
+</mdclass:Report>

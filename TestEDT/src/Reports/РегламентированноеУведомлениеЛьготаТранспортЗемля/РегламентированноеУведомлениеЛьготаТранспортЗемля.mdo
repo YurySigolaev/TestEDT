@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="01a86890-9ae4-4542-9ad0-256ea2d9407c">
+  <producedTypes>
+    <objectType typeId="2c90f0db-25d6-40dd-bdab-6da86ded2d3b" valueTypeId="e4306676-f7fa-4122-bc4a-d8cca6ac9ee6"/>
+    <managerType typeId="33fff953-671f-45a1-bd5a-565880e94d45" valueTypeId="2ef49d5a-50fb-4411-a3b6-4a2409329e98"/>
+  </producedTypes>
+  <name>РегламентированноеУведомлениеЛьготаТранспортЗемля</name>
+  <synonym>
+    <key>ru</key>
+    <value>Заявление о предоставлении льготы по транспортному и (или) земельному налогу</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>CommonForm.ИнформацияОНевозможностиОткрытияУведомления</defaultForm>
+  <forms uuid="d06e8305-7548-4138-9e57-5c60fd3b5d40">
+    <name>Форма2019_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявление о предоставлении льготы по транспортному и (или) земельному налогу</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="c6a32043-75f8-407b-a04d-80c34aa32c21">
+    <name>ФормаВводаСтруктурнойЕдиницы</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма ввода структурной единицы</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="18f42892-24ca-4267-97a6-d516dd261975">
+    <name>Печать_Форма2019_1_Титульная</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявление о предоставлении льготы по транспортному и (или) земельному налогу</value>
+    </synonym>
+  </templates>
+  <templates uuid="bf9b3293-8b07-437a-940d-e07d110fd4f4">
+    <name>Печать_Форма2019_1_Транспорт</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявление о предоставлении льготы по транспортному и (или) земельному налогу</value>
+    </synonym>
+  </templates>
+  <templates uuid="bcc11878-fedd-4019-a749-ac664d17d4ea">
+    <name>Печать_Форма2019_1_Земля</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявление о предоставлении льготы по транспортному и (или) земельному налогу</value>
+    </synonym>
+  </templates>
+  <templates uuid="2593408a-3533-4d5e-96f6-c883156e22b1">
+    <name>СхемаВыгрузкиФорма2019_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявление о предоставлении льготы по транспортному и (или) земельному налогу</value>
+    </synonym>
+  </templates>
+  <templates uuid="9751c7be-8ded-4c34-82db-085b6fd30e89">
+    <name>TIFF_2019_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявление о предоставлении льготы по транспортному и (или) земельному налогу</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="41cca65f-fac6-4846-b12a-783f07fc26b0">
+    <name>СпискиВыбора2019_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявление о предоставлении льготы по транспортному и (или) земельному налогу</value>
+    </synonym>
+  </templates>
+  <templates uuid="c5b2aebb-e264-475b-931f-255d1f82f794">
+    <name>Титульная_2019</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявление о предоставлении льготы по транспортному и (или) земельному налогу</value>
+    </synonym>
+  </templates>
+  <templates uuid="0a951e64-9118-487c-bb5e-d84f287cb827">
+    <name>Транспорт_2019</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявление о предоставлении льготы по транспортному и (или) земельному налогу</value>
+    </synonym>
+  </templates>
+  <templates uuid="571f5917-b6a4-4932-baac-fd7b52e678c7">
+    <name>Земля_2019</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявление о предоставлении льготы по транспортному и (или) земельному налогу</value>
+    </synonym>
+  </templates>
+  <templates uuid="5f2a1ec1-2994-449d-bf83-7fcdbb792645">
+    <name>СведЛьгота_2019</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявление о предоставлении льготы по транспортному и (или) земельному налогу</value>
+    </synonym>
+  </templates>
+</mdclass:Report>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="51427215-6c5e-4992-9ad5-07cd7bfa1ceb">
+  <producedTypes>
+    <objectType typeId="d49ff0e9-f95d-446d-953b-f45bc0f22d84" valueTypeId="beeb5f06-4c3b-4f70-8398-111b58c24fbd"/>
+    <managerType typeId="a40329ca-fb16-4060-889e-5c27958a888e" valueTypeId="9bfb15e8-7fb4-41c0-bf88-96a7d7b0a109"/>
+  </producedTypes>
+  <name>РегламентированноеУведомлениеБумажныеФормы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Регламентированное уведомление</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>CommonForm.ИнформацияОНевозможностиОткрытияУведомления</defaultForm>
+  <forms uuid="c0fbd350-132d-4193-861b-1441a2889526">
+    <name>ФормаУведомления</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма уведомления</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="21adec92-587d-45e3-b306-f724ed926ded">
+    <name>ФормаОсвобождениеНДС</name>
+    <synonym>
+      <key>ru</key>
+      <value>Освобождение от НДС</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="1982a5ce-6686-419b-925d-bc72afde414c">
+    <name>Форма_ОсвобождениеОтУплатыНДС</name>
+    <synonym>
+      <key>ru</key>
+      <value>Экранная форма</value>
+    </synonym>
+  </templates>
+  <templates uuid="e900bf64-f267-440d-8b73-8701616b1bc0">
+    <name>Форма_ОсвобождениеОтНДСПриЕСХН</name>
+    <synonym>
+      <key>ru</key>
+      <value>Экранная форма</value>
+    </synonym>
+  </templates>
+  <templates uuid="09367a89-f9be-4acc-9c33-6479f9ab7022">
+    <name>Форма_ВозвратСуммыНВОС</name>
+    <synonym>
+      <key>ru</key>
+      <value>Экранная форма</value>
+    </synonym>
+  </templates>
+  <templates uuid="141d66e7-b736-475c-af32-3a400da1da62">
+    <name>Форма_ЗачетСуммыНВОС</name>
+    <synonym>
+      <key>ru</key>
+      <value>Экранная форма</value>
+    </synonym>
+  </templates>
+  <templates uuid="8267e51b-4a5e-4d7f-8131-887345ada0a6">
+    <name>Форма_Уведомление1НачалоУплаты</name>
+    <synonym>
+      <key>ru</key>
+      <value>Экранная форма</value>
+    </synonym>
+  </templates>
+  <templates uuid="b3ee0c70-4706-47dc-ba83-32d420d305be">
+    <name>Форма_Уведомление2ОтказОтУплаты</name>
+    <synonym>
+      <key>ru</key>
+      <value>Экранная форма</value>
+    </synonym>
+  </templates>
+  <templates uuid="23eb8d0c-73e4-4e85-9e18-ab06d7fe0ed0">
+    <name>Форма_ДополнительныеВыпискиНДС</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма дополнительные выписки НДС</value>
+    </synonym>
+  </templates>
+  <templates uuid="dde3115c-07ab-44ea-a90d-ee5a3428de73">
+    <name>Форма_ЗаявлениеНаПриемДокументовФСС</name>
+    <synonym>
+      <key>ru</key>
+      <value>Экранная форма</value>
+    </synonym>
+  </templates>
+  <templates uuid="b89ea0de-4779-47a1-a4f7-a6136e39f705">
+    <name>Печать_MXL_Форма_ОсвобождениеОтУплатыНДС</name>
+    <synonym>
+      <key>ru</key>
+      <value>Печатный бланк</value>
+    </synonym>
+  </templates>
+  <templates uuid="4acea32d-a2f4-4579-bf70-b7f209c7fce3">
+    <name>Печать_MXL_Форма_ОсвобождениеОтНДСПриЕСХН</name>
+    <synonym>
+      <key>ru</key>
+      <value>Печатный бланк</value>
+    </synonym>
+  </templates>
+  <templates uuid="851f32bc-8059-4d9d-ada8-2b9f76347b1f">
+    <name>Печать_MXL_Форма_ВозвратСуммыНВОС</name>
+    <synonym>
+      <key>ru</key>
+      <value>Печатный бланк</value>
+    </synonym>
+  </templates>
+  <templates uuid="c4905929-c418-4a2a-8600-588342c20bb7">
+    <name>Печать_MXL_Форма_ЗачетСуммыНВОС</name>
+    <synonym>
+      <key>ru</key>
+      <value>Печатный бланк</value>
+    </synonym>
+  </templates>
+  <templates uuid="b55ad952-5730-49aa-bbbb-a4aec8027fdc">
+    <name>Печать_MXL_Форма_ЗаявлениеНаПриемДокументовФСС</name>
+    <synonym>
+      <key>ru</key>
+      <value>Печатный бланк</value>
+    </synonym>
+  </templates>
+  <templates uuid="9fe0712e-e085-49e8-8a76-0f29c36e7d97">
+    <name>Печать_MXL_Форма_Уведомление1НачалоУплаты</name>
+    <synonym>
+      <key>ru</key>
+      <value>Печатный бланк</value>
+    </synonym>
+  </templates>
+  <templates uuid="31637793-94fd-4492-96c9-d0ac18996e88">
+    <name>Печать_MXL_Форма_Уведомление2ОтказОтУплаты</name>
+    <synonym>
+      <key>ru</key>
+      <value>Печатный бланк</value>
+    </synonym>
+  </templates>
+  <templates uuid="af2f0c8f-32cc-43e8-bd4a-e5fdc9f160f0">
+    <name>Печать_MXL_Форма_ДополнительныеВыпискиНДС</name>
+    <synonym>
+      <key>ru</key>
+      <value>Печать MXL форма дополнительные выписки НДС</value>
+    </synonym>
+  </templates>
+</mdclass:Report>

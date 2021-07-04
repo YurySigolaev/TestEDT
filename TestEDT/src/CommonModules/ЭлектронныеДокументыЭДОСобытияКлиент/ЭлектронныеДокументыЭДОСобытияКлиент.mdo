@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d9fd7ff8-61c1-4426-8ce8-a01fc62010c6">
+  <name>ЭлектронныеДокументыЭДОСобытияКлиент</name>
+  <synonym>
+    <key>ru</key>
+    <value>Электронные документы ЭДО события клиент</value>
+  </synonym>
+  <clientManagedApplication>true</clientManagedApplication>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

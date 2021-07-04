@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="946c574b-628a-48b5-8146-08004ba80b42">
+  <producedTypes>
+    <objectType typeId="ee9c6272-da44-47f1-a671-736ac32e7380" valueTypeId="5d46083f-746e-4b93-92ad-74d3c9094d52"/>
+    <managerType typeId="4a43262b-0757-41e6-9b70-f664b495db87" valueTypeId="6283d97b-738d-4b73-ab67-563c97ad5003"/>
+  </producedTypes>
+  <name>РегламентированноеУведомлениеОбОткрытииЗакрытииСчета</name>
+  <synonym>
+    <key>ru</key>
+    <value>Уведомление об открытии/закрытии счета</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>CommonForm.ИнформацияОНевозможностиОткрытияУведомления</defaultForm>
+  <forms uuid="a67efc81-e802-4b84-abf4-d5d408e8de42">
+    <name>Форма2017_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уведомление об открытии/закрытии счета</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="8cbaf96b-4657-42b2-b7dc-b8fa9d821fc5">
+    <name>Форма2019_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уведомление об открытии/закрытии счета</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="96c40173-fb3a-415e-baef-f24aad206dfc">
+    <name>Печать_Форма2017_1_Титульная</name>
+    <synonym>
+      <key>ru</key>
+      <value>Возврат налога/титульная страница</value>
+    </synonym>
+  </templates>
+  <templates uuid="4a2d97d7-ca9f-4589-beff-ddc70d85b110">
+    <name>Печать_Форма2017_1_Лист001</name>
+    <synonym>
+      <key>ru</key>
+      <value>Возврат налога/лист1</value>
+    </synonym>
+  </templates>
+  <templates uuid="77f57786-c687-431a-8952-55a68f906c2a">
+    <name>СхемаВыгрузкиФорма2017_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки форма2017 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="dd96d830-031a-4111-812a-e955c5921430">
+    <name>TIFF_2017_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>TIFF 2017 1</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="5ae28a2a-08ca-4ac1-9c74-e4f696ec65fc">
+    <name>СпискиВыбора2017_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списки выбора2017 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="a1b4e604-6feb-4839-9c9d-1330ef09f016">
+    <name>Титульная</name>
+    <synonym>
+      <key>ru</key>
+      <value>Титульная</value>
+    </synonym>
+  </templates>
+  <templates uuid="cfc52be4-cd48-42f2-89ba-0e52313efc26">
+    <name>Лист001</name>
+    <synonym>
+      <key>ru</key>
+      <value>Лист001</value>
+    </synonym>
+  </templates>
+  <templates uuid="ececc31f-e462-4766-8ee7-c5c7f5564831">
+    <name>Печать_Форма2019_1_Титульная</name>
+    <synonym>
+      <key>ru</key>
+      <value>Возврат налога/титульная страница</value>
+    </synonym>
+  </templates>
+  <templates uuid="0566d99c-b160-43de-b8d2-07caa1a3d0d0">
+    <name>Печать_Форма2019_1_Лист1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Возврат налога/лист1</value>
+    </synonym>
+  </templates>
+  <templates uuid="3ff34786-ec2e-4e10-b239-d5177d9218fb">
+    <name>СхемаВыгрузкиФорма2019_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки форма2019 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="2fa70107-89b7-43ff-88c8-78fef789b01b">
+    <name>TIFF_2019_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>TIFF 2019 1</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="d3180a7e-77f5-429a-a51c-f5be1980437e">
+    <name>СпискиВыбора2019_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списки выбора2019 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="3b2d0ae3-3553-4d1a-8978-042de5dfd401">
+    <name>Титульная_2019</name>
+    <synonym>
+      <key>ru</key>
+      <value>Титульная 2019</value>
+    </synonym>
+  </templates>
+  <templates uuid="ae421939-0190-4acd-9617-e1307068a7c1">
+    <name>Лист1_2019</name>
+    <synonym>
+      <key>ru</key>
+      <value>Лист1 2019</value>
+    </synonym>
+  </templates>
+</mdclass:Report>

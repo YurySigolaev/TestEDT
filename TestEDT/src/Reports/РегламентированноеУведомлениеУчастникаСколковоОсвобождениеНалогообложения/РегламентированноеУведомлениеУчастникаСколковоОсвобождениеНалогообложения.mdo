@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f900e02d-738a-4352-8a26-1e35d4804396">
+  <producedTypes>
+    <objectType typeId="262eccb6-b75d-424e-9f6e-356b3f3a48ea" valueTypeId="ea4246c9-85f3-40ab-a2ad-6c19a9d94d2c"/>
+    <managerType typeId="e2d99b30-b401-487c-af82-7e5a2b054beb" valueTypeId="03e345da-6e09-4c7f-b313-12cc4339991c"/>
+  </producedTypes>
+  <name>РегламентированноеУведомлениеУчастникаСколковоОсвобождениеНалогообложения</name>
+  <synonym>
+    <key>ru</key>
+    <value>Уведомлени участника Сколково об освобождении от исполнения обязанностей налогоплательщика</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>CommonForm.ИнформацияОНевозможностиОткрытияУведомления</defaultForm>
+  <forms uuid="3b640081-4ab3-4bbd-a1e3-fd47debb0c21">
+    <name>Форма2017_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уведомление участника Сколково об освобождении от исполнения обязанностей налогоплательщика</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="53a82446-f7e1-4f50-9680-8b2fe27501a1">
+    <name>Форма2019_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уведомление об освобождении от налога на прибыль для участников &quot;Сколково&quot;</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="0146f0d2-6cf5-40b3-a582-58c6f57331f1">
+    <name>Печать_Форма2017_1_Титульная</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уведомление участника Сколково об освобождении от исполнения обязанностей налогоплательщика</value>
+    </synonym>
+  </templates>
+  <templates uuid="66485e06-6ab6-4b5f-98b9-8aeebb68f973">
+    <name>СхемаВыгрузкиФорма2017_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки форма2017 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="4121da0b-986c-4f91-ae36-9be8d78bc4f1">
+    <name>СхемаВыгрузкиФорма2019_1_НДС</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки форма2019 1 НДС</value>
+    </synonym>
+  </templates>
+  <templates uuid="52092d5b-d196-421a-b987-32ab39f4b8bc">
+    <name>СхемаВыгрузкиФорма2019_1_Прибыль</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки форма2019 1 прибыль</value>
+    </synonym>
+  </templates>
+  <templates uuid="551b76ce-7c6c-4f83-9811-a9feabed40c6">
+    <name>TIFF_2017_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>TIFF 2017 1</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="e57aad4e-6eb9-4d47-8b68-941b156a2f52">
+    <name>СпискиВыбора2017_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списки выбора2017 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="4ad43131-a1cb-4cdf-abaf-a16469b5086f">
+    <name>Титульная</name>
+    <synonym>
+      <key>ru</key>
+      <value>Титульная</value>
+    </synonym>
+  </templates>
+  <templates uuid="6d0c46e1-74a5-4ca7-aba4-6121bc0f1c3a">
+    <name>Титульная_НДС</name>
+    <synonym>
+      <key>ru</key>
+      <value>Титульная НДС</value>
+    </synonym>
+  </templates>
+  <templates uuid="3863fe55-cf44-431c-b072-8f9024a29eff">
+    <name>Титульная_Прибыль</name>
+    <synonym>
+      <key>ru</key>
+      <value>Титульная прибыль</value>
+    </synonym>
+  </templates>
+  <templates uuid="89691e15-e243-4531-a623-f0000f0c101d">
+    <name>СпискиВыбора2019_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списки выбора2019 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="2fa1a734-51f8-4b4a-a521-be7c22e8baa5">
+    <name>Печать_Форма2019_1_НДС</name>
+    <synonym>
+      <key>ru</key>
+      <value>НДС</value>
+    </synonym>
+  </templates>
+  <templates uuid="05f64895-c69d-4e56-adf7-3bec7d48babc">
+    <name>Печать_Форма2019_1_Прибыль</name>
+    <synonym>
+      <key>ru</key>
+      <value>НДС</value>
+    </synonym>
+  </templates>
+  <templates uuid="0381a42c-d1b9-4a2e-96dd-896caa01c347">
+    <name>TIFF_2019_НДС</name>
+    <synonym>
+      <key>ru</key>
+      <value>TIFF 2019 НДС</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="3c847b5d-9dc2-4772-b73e-961d6e64fc67">
+    <name>TIFF_2019_Прибыль</name>
+    <synonym>
+      <key>ru</key>
+      <value>TIFF 2019 прибыль</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+</mdclass:Report>

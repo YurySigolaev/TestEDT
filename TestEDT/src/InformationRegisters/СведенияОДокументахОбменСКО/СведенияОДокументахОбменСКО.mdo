@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="46d986dc-883a-4e25-b9ee-5daad26d3b06">
+  <producedTypes>
+    <selectionType typeId="a0316e73-fe4d-42e6-8b47-34621bebd56e" valueTypeId="5b05b560-5c9e-4304-8ef8-7a93d243d539"/>
+    <listType typeId="54c427cb-5f54-46bf-b751-4cbc9b236c97" valueTypeId="24be675a-660f-423d-b3e8-ffd5bb9b4cdb"/>
+    <managerType typeId="75a5c24e-1043-48a5-88cf-417808280b34" valueTypeId="02396a66-999d-4ef1-a343-5ab092f9405b"/>
+    <recordSetType typeId="c653c719-2f66-4173-9d21-903348548cf2" valueTypeId="82d03c8c-9332-4475-8d89-c3b6d25b581b"/>
+    <recordKeyType typeId="e9a664f7-e619-447b-9762-86266b1811e4" valueTypeId="42cd8b20-e74b-49e8-93a0-e9d9f5b58b21"/>
+    <recordType typeId="7f5fde97-1714-489c-a03c-3fcb16db04c2" valueTypeId="bdb8fea6-cf12-42ca-8e62-bbf734811248"/>
+    <recordManagerType typeId="d95724ac-fecb-493b-93fa-232686eb569f" valueTypeId="7635ef6d-a09c-42a6-b5bf-9f5c06a8aaf5"/>
+  </producedTypes>
+  <name>СведенияОДокументахОбменСКО</name>
+  <synonym>
+    <key>ru</key>
+    <value>Сведения о документах обмен с контролирующими организациями</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Active</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>LineNumber</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Recorder</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Period</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fillChecking>ShowError</fillChecking>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="b7b47ada-edae-4c86-b39c-ef64d0d6f06a">
+    <name>ДокументОтчетности</name>
+    <synonym>
+      <key>ru</key>
+      <value>Документ отчетности</value>
+    </synonym>
+    <type>
+      <types>DefinedType.ПредметЦиклаОбмена</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <indexing>Index</indexing>
+  </resources>
+  <dimensions uuid="c36b7085-055d-4c2e-8255-698a4cdc4339">
+    <name>Документ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Документ</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.ВходящиеДокументы</types>
+      <types>CatalogRef.ИсходящиеДокументы</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+</mdclass:InformationRegister>

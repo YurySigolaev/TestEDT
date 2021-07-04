@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="513767e0-a327-422b-bd30-23ef7320340d">
+  <name>ОтчетностьВКонтролирующиеОрганы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Отчетность в контролирующие органы</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

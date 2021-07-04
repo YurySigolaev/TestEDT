@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5b13c868-363d-40af-88e1-47217937cc91">
+  <producedTypes>
+    <objectType typeId="28f2800d-faf6-43b5-ad65-541f11f2b75c" valueTypeId="cfd48671-2ed9-4b56-ab43-6633bffb8840"/>
+    <managerType typeId="549cbaf9-9f3f-4f77-b346-7e50204da441" valueTypeId="77d05f8e-9bb5-438f-a1cc-9aac61f0e64f"/>
+  </producedTypes>
+  <name>РегламентированноеУведомлениеЗапросСведений</name>
+  <synonym>
+    <key>ru</key>
+    <value>Запрос сведений, составляющих налоговую тайну, признанных общедоступными</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>CommonForm.ИнформацияОНевозможностиОткрытияУведомления</defaultForm>
+  <forms uuid="03bc404a-5e10-43d3-89eb-55f24a9a63ba">
+    <name>Форма2019_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Запрос сведений, составляющих налоговую тайну, признанных общедоступными</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="c5459df6-fa5b-46ea-8bd8-fa046573bcc7">
+    <name>Печать_Форма2019_1_Титульная</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявление о зачете излишне уплаченного налога/титульная страница</value>
+    </synonym>
+  </templates>
+  <templates uuid="d775e493-f191-406a-9003-1f412edec92d">
+    <name>Печать_Форма2019_1_Лист002</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявление о зачете излишне уплаченного налога/лист1</value>
+    </synonym>
+  </templates>
+  <templates uuid="0f219223-1553-40aa-b99b-5f4eb3807e66">
+    <name>СхемаВыгрузкиФорма2019_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки форма2019 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="b9dac639-a04e-4104-93ac-45a3ad0df569">
+    <name>СпискиВыбора2019_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списки выбора2019 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="2b7ec0a1-2e6b-47c6-b1bd-c9c85b146ef6">
+    <name>Титульная</name>
+    <synonym>
+      <key>ru</key>
+      <value>Титульная</value>
+    </synonym>
+  </templates>
+  <templates uuid="32feeb9f-86bf-4b4b-94a6-453534354f44">
+    <name>Лист002</name>
+    <synonym>
+      <key>ru</key>
+      <value>Лист002</value>
+    </synonym>
+  </templates>
+</mdclass:Report>

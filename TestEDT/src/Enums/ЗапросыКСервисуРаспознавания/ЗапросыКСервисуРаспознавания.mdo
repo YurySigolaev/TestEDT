@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="beb4b8c2-3ddb-4d9f-a418-d9a46105a640">
+  <producedTypes>
+    <refType typeId="a50d66e8-6dee-449b-baa8-110cbbdea60b" valueTypeId="634d6e7b-3e3b-4738-b673-b1bcd0c3a011"/>
+    <listType typeId="3192effc-9178-4347-8abd-fb0180b9a316" valueTypeId="872a6687-5c40-411e-ae51-dd3310350d6c"/>
+    <managerType typeId="a44d39e3-61b5-4257-a8d9-88d5d7a4efc5" valueTypeId="a90d7efc-f520-4a6c-b3e6-25f2ea63ed9e"/>
+  </producedTypes>
+  <name>ЗапросыКСервисуРаспознавания</name>
+  <synonym>
+    <key>ru</key>
+    <value>Запросы к сервису распознавания</value>
+  </synonym>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Order</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Ref</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="8b768b91-b243-4c43-b28e-a5ca9832ca7f">
+    <name>АвторизацияПоТикетуИТС</name>
+    <synonym>
+      <key>ru</key>
+      <value>Авторизация по тикету ИТС</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="56f03ffc-803e-42a1-b14b-4f4241e57695">
+    <name>ЗагрузкаФайла</name>
+    <synonym>
+      <key>ru</key>
+      <value>Загрузка файла</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="42b299e4-1a45-4ad2-b565-27f33a2f1960">
+    <name>ПолучениеЛимитаСтраниц</name>
+    <synonym>
+      <key>ru</key>
+      <value>Получение лимита страниц</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="923209aa-725c-4152-99b2-5ad849b23e85">
+    <name>ПолучениеПараметровДляЗагрузкиФайла</name>
+    <synonym>
+      <key>ru</key>
+      <value>Получение параметров для загрузки файла</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="7fe92b41-66a2-4441-9004-b8667fa3b660">
+    <name>ПолучениеРезультатаРаспознавания</name>
+    <synonym>
+      <key>ru</key>
+      <value>Получение результата распознавания</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="dc70a3f4-00b7-46be-9cf4-a86d390d76b6">
+    <name>ПроверкаГотовностиЗаданияРаспознавания</name>
+    <synonym>
+      <key>ru</key>
+      <value>Проверка готовности задания распознавания</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="4dc35d78-632b-422e-82ff-a8ce98ade507">
+    <name>СозданиеЗаданияРаспознавания</name>
+    <synonym>
+      <key>ru</key>
+      <value>Создание задания распознавания</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

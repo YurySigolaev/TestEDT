@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bfbbcae3-5d93-4109-8133-447e4bb5290d">
+  <name>ОтчетностьМеждународныхГруппКомпаний</name>
+  <synonym>
+    <key>ru</key>
+    <value>Отчетность международных групп компаний</value>
+  </synonym>
+  <parentSubsystem>Subsystem.РегламентированнаяОтчетность</parentSubsystem>
+</mdclass:Subsystem>

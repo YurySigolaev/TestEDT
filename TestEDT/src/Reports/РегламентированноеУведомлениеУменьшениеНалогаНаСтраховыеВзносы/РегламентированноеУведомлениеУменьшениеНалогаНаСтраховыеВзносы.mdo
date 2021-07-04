@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4bb67b70-def5-4c00-a224-5ef3035cfafe">
+  <producedTypes>
+    <objectType typeId="0cbd179b-b7a0-4941-a2cc-f8bf5cd88dbb" valueTypeId="e349b4bc-bcab-4008-8041-21f1d0654cca"/>
+    <managerType typeId="d6bcf93f-b21d-4ee9-90e6-e1bad628457a" valueTypeId="4cdaaf6b-19d5-438d-ad55-8f2ba17932b6"/>
+  </producedTypes>
+  <name>РегламентированноеУведомлениеУменьшениеНалогаНаСтраховыеВзносы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Уведомление об уменьшении суммы налога на сумму страховых взносов</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>CommonForm.ИнформацияОНевозможностиОткрытияУведомления</defaultForm>
+  <forms uuid="00d08b0d-3ba7-4516-b098-d0bb6a6a8549">
+    <name>Форма2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уведомление об уменьшении суммы налога на сумму страховых взносов</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="48a0f14d-aad0-48c0-81f1-628106b9326b">
+    <name>Печать_Форма2020_1_Титульная</name>
+    <synonym>
+      <key>ru</key>
+      <value>Титульная</value>
+    </synonym>
+  </templates>
+  <templates uuid="392618f1-fca1-405a-83b1-744f96558be3">
+    <name>Печать_Форма2020_1_ЛистА</name>
+    <synonym>
+      <key>ru</key>
+      <value>Лист А</value>
+    </synonym>
+  </templates>
+  <templates uuid="844dd5f0-b3d8-48ac-9742-73dd78c8ca6a">
+    <name>Печать_Форма2020_1_ЛистБ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Лист Б</value>
+    </synonym>
+  </templates>
+  <templates uuid="76bce513-a9e0-401f-96a8-41641b450e38">
+    <name>СхемаВыгрузкиФорма2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки</value>
+    </synonym>
+  </templates>
+  <templates uuid="a2faed1a-75e5-4459-8b83-0acc02d3ba45">
+    <name>TIFF_2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Шаблон печати</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="94380c77-2dd6-4c75-905c-925cde12d27a">
+    <name>СпискиВыбора2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списки выбора</value>
+    </synonym>
+  </templates>
+  <templates uuid="b16437ec-47e6-4026-8892-d475accda414">
+    <name>Титульная</name>
+    <synonym>
+      <key>ru</key>
+      <value>Титульная</value>
+    </synonym>
+  </templates>
+  <templates uuid="9d770b8c-5679-468e-b01b-0613cb816e67">
+    <name>ЛистА</name>
+    <synonym>
+      <key>ru</key>
+      <value>Лист А</value>
+    </synonym>
+  </templates>
+  <templates uuid="d166ab10-ac58-4480-a335-1fdace576df1">
+    <name>ЛистБ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Лист Б</value>
+    </synonym>
+  </templates>
+</mdclass:Report>

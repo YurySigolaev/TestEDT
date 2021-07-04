@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c80e05c4-24a5-421d-bdf2-1815013f7279">
+  <name>ПравоНаЗащищенныйДокументооборотСКонтролирующимиОрганамиДокументооборот</name>
+  <synonym>
+    <key>ru</key>
+    <value>Право на защищенный документооборот с контролирующими органами (Документооборот)</value>
+  </synonym>
+  <comment>Простая реализация без ограничений доступа</comment>
+</mdclass:Role>

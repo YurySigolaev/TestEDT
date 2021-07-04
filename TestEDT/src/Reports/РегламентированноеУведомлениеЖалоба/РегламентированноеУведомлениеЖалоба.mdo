@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5c0e240e-c953-42bb-b052-c983e3df0f44">
+  <producedTypes>
+    <objectType typeId="f06b9434-b1ea-4a01-9686-699ab9abdce4" valueTypeId="f916403a-992f-422c-a6a0-ca2efab6a1ce"/>
+    <managerType typeId="247b9121-ee94-4486-bed1-35b323d10c8d" valueTypeId="783e4c88-b162-4e1a-8838-af563de43bb0"/>
+  </producedTypes>
+  <name>РегламентированноеУведомлениеЖалоба</name>
+  <synonym>
+    <key>ru</key>
+    <value>Форма жалобы (апелляционной жалобы)</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>CommonForm.ИнформацияОНевозможностиОткрытияУведомления</defaultForm>
+  <forms uuid="b1ba6c77-ec68-4a43-9332-54a0bc5b56b3">
+    <name>Форма2019_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма жалобы (апелляционной жалобы)</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="96ff77af-baf9-4dd4-b522-44f981bf704c">
+    <name>СхемаВыгрузкиФорма2019_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки</value>
+    </synonym>
+  </templates>
+  <templates uuid="f761f5e5-3ca5-474a-be07-dc687bd66632">
+    <name>Печать_MXL_Форма2019_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма жалобы (апелляционной жалобы)</value>
+    </synonym>
+  </templates>
+</mdclass:Report>

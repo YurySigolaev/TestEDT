@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cdf0a2af-6996-4751-aebf-d57fa20a976a">
+  <producedTypes>
+    <objectType typeId="11be016f-ccdd-46b0-a3de-20866b21bab4" valueTypeId="0101abf5-ca09-4c20-aa28-9ee347e9b6dc"/>
+    <managerType typeId="92f9446b-9584-4b6f-9aab-2a6fc43c2cc8" valueTypeId="d55f9158-aae1-4d03-960e-e70f95715f36"/>
+  </producedTypes>
+  <name>РегламентированноеУведомлениеСогласиеНаИнформирование</name>
+  <synonym>
+    <key>ru</key>
+    <value>Согласие налогоплательщика на информирование о наличии задолженности</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>CommonForm.ИнформацияОНевозможностиОткрытияУведомления</defaultForm>
+  <forms uuid="d7d55af3-0080-4182-badc-bd305d1300af">
+    <name>Форма2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Согласие налогоплательщика на информирование о наличии задолженности</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="f0b20336-5fa9-4f51-8c13-4e91bafc77fa">
+    <name>СхемаВыгрузкиФорма2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Согласие налогоплательщика на информирование о наличии задолженности</value>
+    </synonym>
+  </templates>
+  <templates uuid="7150fc8c-2818-4678-b17d-405014199032">
+    <name>Титульная</name>
+    <synonym>
+      <key>ru</key>
+      <value>Титульная</value>
+    </synonym>
+  </templates>
+  <templates uuid="28c966e0-49f4-4fb5-baac-686f7e92fbf2">
+    <name>СпискиВыбора2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списки выбора</value>
+    </synonym>
+  </templates>
+  <templates uuid="db17d6d8-252d-495f-aae8-0af8ecd1adb0">
+    <name>Печать_Форма2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Согласие налогоплательщика на информирование о наличии задолженности</value>
+    </synonym>
+  </templates>
+  <templates uuid="6791ba0f-f8c1-448e-b9f4-b9b15e5aad20">
+    <name>TIFF_2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>TIFF 2020 1</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+</mdclass:Report>

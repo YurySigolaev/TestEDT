@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="36afd554-b8a6-42c0-8431-6c0faaeedad2">
+  <producedTypes>
+    <objectType typeId="621026d0-832c-46a6-9bcc-144b590df5fb" valueTypeId="c44e77b4-5a85-4138-8eb8-50f4273d2ce8"/>
+    <managerType typeId="cd68ceb0-a7e1-4c79-8b72-69e848631bbe" valueTypeId="644a6c11-53a4-4c7c-ae1f-a9d2b413579a"/>
+  </producedTypes>
+  <name>РегламентированноеУведомлениеЗаявлениеНаСубсидиюПрофилактика</name>
+  <synonym>
+    <key>ru</key>
+    <value>Заявление на получение субсидии на профилактику</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>CommonForm.ИнформацияОНевозможностиОткрытияУведомления</defaultForm>
+  <forms uuid="2e159ba8-7c54-4a3b-b680-bc03177a56fe">
+    <name>Форма2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявление на получение субсидии на профилактику</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="4d6a3703-86e6-48c9-a4d1-fa37b3477bc2">
+    <name>СхемаВыгрузкиФорма2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявление на получение субсидии на профилактику</value>
+    </synonym>
+  </templates>
+  <templates uuid="a776e16a-d8c0-4110-9aa3-6990db859cd1">
+    <name>Титульная</name>
+    <synonym>
+      <key>ru</key>
+      <value>Титульная</value>
+    </synonym>
+  </templates>
+  <templates uuid="f5d50eee-6784-4479-9dae-d7a489553b5f">
+    <name>Печать_Форма2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявление на получение субсидии на профилактику</value>
+    </synonym>
+  </templates>
+  <templates uuid="191ff905-d147-4213-abbe-0d7d53e426c5">
+    <name>СпискиВыбора2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списки выбора</value>
+    </synonym>
+  </templates>
+</mdclass:Report>

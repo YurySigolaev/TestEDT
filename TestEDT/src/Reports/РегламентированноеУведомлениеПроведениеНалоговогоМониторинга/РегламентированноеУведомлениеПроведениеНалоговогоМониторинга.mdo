@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="450800bc-1b7b-4bbd-86d0-6799acd9f914">
+  <producedTypes>
+    <objectType typeId="8288e778-9055-4a44-b5c8-28236e7b294a" valueTypeId="8a9e08db-db44-42ff-a90d-6c2aecad2e0d"/>
+    <managerType typeId="7cf52526-bf67-460c-8594-6b51bb2d8734" valueTypeId="22ec1ec8-8d93-49fe-8a39-1018a01f35f3"/>
+  </producedTypes>
+  <name>РегламентированноеУведомлениеПроведениеНалоговогоМониторинга</name>
+  <synonym>
+    <key>ru</key>
+    <value>Заявление о проведении налогового мониторинга</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>CommonForm.ИнформацияОНевозможностиОткрытияУведомления</defaultForm>
+  <forms uuid="3fcc5569-99a3-44e7-bb15-34afe38b35db">
+    <name>Форма2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявление о проведении налогового мониторинга</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="89bac594-0eef-4a97-893e-c623eb5efdec">
+    <name>СхемаВыгрузкиФорма2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявление о проведении налогового мониторинга</value>
+    </synonym>
+  </templates>
+  <templates uuid="20b24b76-5e67-4871-b4cb-96c868004733">
+    <name>СпискиВыбора2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списки выбора2020 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="d3033e7d-a22e-4864-9997-a2e3198f7ef2">
+    <name>Титульная</name>
+    <synonym>
+      <key>ru</key>
+      <value>Титульная</value>
+    </synonym>
+  </templates>
+  <templates uuid="8a1d8c03-be8c-4475-9f00-45c6b492c743">
+    <name>Лист002</name>
+    <synonym>
+      <key>ru</key>
+      <value>Лист002</value>
+    </synonym>
+  </templates>
+</mdclass:Report>

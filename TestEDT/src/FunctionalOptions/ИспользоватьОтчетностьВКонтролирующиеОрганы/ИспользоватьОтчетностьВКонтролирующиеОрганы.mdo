@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:FunctionalOption xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4a7d8864-7754-4b00-8026-7d8efcdda566">
+  <name>ИспользоватьОтчетностьВКонтролирующиеОрганы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Использовать регламентированную отчетность в контролирующие органы</value>
+  </synonym>
+  <location>Constant.ИспользоватьОтчетностьВКонтролирующиеОрганы</location>
+  <privilegedGetMode>true</privilegedGetMode>
+  <content>Subsystem.РегламентированнаяОтчетность</content>
+  <content>Subsystem.НастройкаИАдминистрирование.Subsystem.РегламентированнаяОтчетностьДокументооборот</content>
+  <content>Catalog.Контрагенты.Attribute.ТипКонтролирующегоОргана</content>
+  <content>Catalog.Контрагенты.Attribute.ЭтоКонтролирующийОрган</content>
+  <content>Catalog.Контрагенты.Attribute.КодКонтролирующегоОргана</content>
+  <content>Subsystem.ДокументыИФайлы.Subsystem.РегламентированнаяОтчетность</content>
+</mdclass:FunctionalOption>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DefinedType xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3c7b4cca-fe70-44e0-91f4-58ba6a622d81">
+  <producedTypes>
+    <containerType typeId="d94466a9-0cd6-4f5c-9db4-b941ff7ce5d2" valueTypeId="4e993d3a-ebcf-4025-872e-f6df156f9b54"/>
+  </producedTypes>
+  <name>ПредметОтправкиОтчетаБанкаРоссии</name>
+  <synonym>
+    <key>ru</key>
+    <value>Предмет отправки отчета банка россии</value>
+  </synonym>
+  <type>
+    <types>CatalogRef.ЭлектронныеПредставленияРегламентированныхОтчетов</types>
+    <types>DocumentRef.РегламентированныйОтчет</types>
+  </type>
+</mdclass:DefinedType>

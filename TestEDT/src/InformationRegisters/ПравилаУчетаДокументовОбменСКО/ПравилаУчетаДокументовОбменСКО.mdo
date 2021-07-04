@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0c795794-acff-4a36-b9c2-1fc95f420bcf">
+  <producedTypes>
+    <selectionType typeId="d952f24f-29a3-4132-9c96-67f776703215" valueTypeId="aca9c133-4345-4a79-8a23-3c76ab58d6a4"/>
+    <listType typeId="65ed4bac-e314-4811-8b30-a5d9f1461e8c" valueTypeId="9d3eb0cd-0367-4107-b907-edb474799f66"/>
+    <managerType typeId="1c1db87d-d3f0-46f7-a3ab-9e17fa6aed47" valueTypeId="7af2e6fe-c5ed-4c2e-8c44-108c1b355117"/>
+    <recordSetType typeId="70293b18-bc47-4948-8635-742ab7cfeae3" valueTypeId="5de62049-b8aa-4140-ba8d-1f43f0097c21"/>
+    <recordKeyType typeId="89ac5930-eed7-45ea-8423-84773a56fccf" valueTypeId="068e9338-1b6b-495e-bdf1-547666724adc"/>
+    <recordType typeId="af86d4da-6c80-4482-8237-935c3572fb67" valueTypeId="1e307087-b40f-4503-945a-64b539257cd9"/>
+    <recordManagerType typeId="dc88d693-4edc-4363-ae03-b361410adf79" valueTypeId="09264ab8-a7b0-4e3e-9924-8052e4b19748"/>
+  </producedTypes>
+  <name>ПравилаУчетаДокументовОбменСКО</name>
+  <synonym>
+    <key>ru</key>
+    <value>Правила учета документов для Контролирующих органов</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <defaultRecordForm>InformationRegister.ПравилаУчетаДокументовОбменСКО.Form.ФормаЗаписи</defaultRecordForm>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Active</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>LineNumber</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Recorder</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Period</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fillChecking>ShowError</fillChecking>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="1adff052-8f13-4b69-b541-ab9db82e7c36">
+    <name>Шаблон</name>
+    <synonym>
+      <key>ru</key>
+      <value>Шаблон</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.ШаблоныИсходящихДокументов</types>
+      <types>CatalogRef.ШаблоныВходящихДокументов</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <dimensions uuid="056baaaa-ec56-436e-8ca9-9e6898e37aac">
+    <name>Организация</name>
+    <synonym>
+      <key>ru</key>
+      <value>Организация</value>
+    </synonym>
+    <type>
+      <types>DefinedType.Организация</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+  <dimensions uuid="6c63d94e-419a-456c-8bdb-2dc54426351d">
+    <name>ВходящийДокумент</name>
+    <synonym>
+      <key>ru</key>
+      <value>Входящий документ</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+  <dimensions uuid="60d98c90-6dd0-4271-a8cc-9c13ca8da94a">
+    <name>ТипКонтролирующегоОргана</name>
+    <synonym>
+      <key>ru</key>
+      <value>Тип контролирующего органа</value>
+    </synonym>
+    <type>
+      <types>EnumRef.ТипыКонтролирующихОрганов</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+  <dimensions uuid="3084f649-77bd-4b07-8128-435b7bd7bd60">
+    <name>ВидЭлектронногоДокумента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Вид документа контролирующего органа</value>
+    </synonym>
+    <type>
+      <types>EnumRef.ВидыДокументовПолучаемыхОтКО</types>
+      <types>EnumRef.ВидыДокументовОтправляемыхВКО</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+  <forms uuid="f9ed2d21-d19a-4108-9b0d-d1e7706034aa">
+    <name>ФормаЗаписи</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма записи</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:InformationRegister>

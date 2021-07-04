@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="19f9ef6f-d361-42e4-853e-ac427fcf5f3f">
+  <producedTypes>
+    <objectType typeId="6a43cec0-bc4d-44a8-b77e-5b4dc15a6d42" valueTypeId="e34474fc-24ef-44c2-8dd9-25315d8b1a58"/>
+    <managerType typeId="79ebf7d7-9743-495a-87f3-6b5f56b2eba5" valueTypeId="7e55f70d-c7d3-4c08-98bc-a872c6fb866b"/>
+  </producedTypes>
+  <name>РегламентированноеУведомлениеОрганизацияВнутреннегоКонтроля</name>
+  <synonym>
+    <key>ru</key>
+    <value>Информация об организации системы внутреннего контроля</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>CommonForm.ИнформацияОНевозможностиОткрытияУведомления</defaultForm>
+  <forms uuid="f79434d9-456a-4c5d-8093-ce55160c754a">
+    <name>Форма2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Информация об организации системы внутреннего контроля</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="48d04165-b11c-4d9a-bbc0-42af0026d035">
+    <name>СпискиВыбора2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Информация об организации системы внутреннего контроля</value>
+    </synonym>
+  </templates>
+  <templates uuid="8cb7df66-06f5-496b-96b8-a0445ce1811b">
+    <name>Титульная_2020</name>
+    <synonym>
+      <key>ru</key>
+      <value>Информация об организации системы внутреннего контроля</value>
+    </synonym>
+  </templates>
+  <templates uuid="f85c61f5-f082-4301-aae3-ab37c8050686">
+    <name>СхемаВыгрузкиФорма2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Информация об организации системы внутреннего контроля</value>
+    </synonym>
+  </templates>
+  <templates uuid="9e7ae131-e8e9-4acd-b5f1-bed769b5d78f">
+    <name>ОбщПолож_2020</name>
+    <synonym>
+      <key>ru</key>
+      <value>Информация об организации системы внутреннего контроля</value>
+    </synonym>
+  </templates>
+  <templates uuid="0bfd771e-ec25-4896-9d72-50e6c9fdaa4a">
+    <name>СтрПодрСВК_2020</name>
+    <synonym>
+      <key>ru</key>
+      <value>Информация об организации системы внутреннего контроля</value>
+    </synonym>
+  </templates>
+  <templates uuid="06d92f6b-e8cf-4b2d-8d57-a9a1d4869749">
+    <name>КонтрСреда_2020</name>
+    <synonym>
+      <key>ru</key>
+      <value>Информация об организации системы внутреннего контроля</value>
+    </synonym>
+  </templates>
+  <templates uuid="ac2519c2-71ae-4b31-ace2-5fa017f06f70">
+    <name>СистУпрРиск_2020</name>
+    <synonym>
+      <key>ru</key>
+      <value>Информация об организации системы внутреннего контроля</value>
+    </synonym>
+  </templates>
+  <templates uuid="2b9322aa-daa2-4dd3-b65c-e559f5c0cc5d">
+    <name>КонтрПроц_2020</name>
+    <synonym>
+      <key>ru</key>
+      <value>Информация об организации системы внутреннего контроля</value>
+    </synonym>
+  </templates>
+  <templates uuid="55e95eb2-52e3-420c-93bd-b2903432b592">
+    <name>ИнфСистСВК_2020</name>
+    <synonym>
+      <key>ru</key>
+      <value>Информация об организации системы внутреннего контроля</value>
+    </synonym>
+  </templates>
+  <templates uuid="f36490ff-b8b3-4bba-87fb-5d28f050f44a">
+    <name>МонитСВК_2020</name>
+    <synonym>
+      <key>ru</key>
+      <value>Информация об организации системы внутреннего контроля</value>
+    </synonym>
+  </templates>
+</mdclass:Report>

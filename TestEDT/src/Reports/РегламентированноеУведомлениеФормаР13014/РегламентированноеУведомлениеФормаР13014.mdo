@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="13dd9bd9-45d1-49cd-9773-a20ed34b6c99">
+  <producedTypes>
+    <objectType typeId="855a58a5-63e4-49c8-9989-d1b0e1b600bd" valueTypeId="3dec33fd-f731-4c81-b07e-a6cc6ce16475"/>
+    <managerType typeId="1c68ca6f-8cb1-4318-bf92-c8518023d4db" valueTypeId="e7151b28-09cc-4446-88c5-94bbed0529dd"/>
+  </producedTypes>
+  <name>РегламентированноеУведомлениеФормаР13014</name>
+  <synonym>
+    <key>ru</key>
+    <value>Заявление о регистрации изменений в документах или в сведениях о юридическом лице</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>CommonForm.ИнформацияОНевозможностиОткрытияУведомления</defaultForm>
+  <forms uuid="238f43b9-1a2f-4998-8fd1-b1c6d3e77c4b">
+    <name>Форма2020_4</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма Р13014</value>
+    </synonym>
+    <comment>Приказ ФНС России от 31.08.2020 № ЕД-7-14/617@</comment>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="974b2359-ac46-4030-9b93-fa9a69ebc761">
+    <name>TIFF_2020_4</name>
+    <synonym>
+      <key>ru</key>
+      <value>1111520_5.01000_01.tif</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="11c5c95d-8da2-4464-ab28-cf9d12aad38c">
+    <name>Печать_Форма2020_4_ЛистА_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист А страница 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="56919ab4-8a02-43f5-aa77-90b21c09d39d">
+    <name>Печать_Форма2020_4_ЛистА_2</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист А страница 2</value>
+    </synonym>
+  </templates>
+  <templates uuid="9631f7e2-7e67-4b32-a816-1b6645c4b20f">
+    <name>Печать_Форма2020_4_ЛистБ_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Б страница 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="377836ca-4420-459b-91a0-828b8a19b140">
+    <name>Печать_Форма2020_4_ЛистБ_2</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Б страница 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="d4cd9c1d-ec99-4a7e-9d14-19beb796374c">
+    <name>Печать_Форма2020_4_ЛистВ_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист В страница 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="6f485034-f437-476e-93c2-5a670f1d3239">
+    <name>Печать_Форма2020_4_ЛистВ_2</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист В страница 2</value>
+    </synonym>
+  </templates>
+  <templates uuid="79a3cb6b-ca80-4a74-8cfc-1226433b4d1e">
+    <name>Печать_Форма2020_4_ЛистВ_3</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист В страница 3</value>
+    </synonym>
+  </templates>
+  <templates uuid="876ec2e5-ea52-42a3-8851-69483d5ed086">
+    <name>Печать_Форма2020_4_ЛистВ_4</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист В страница 4</value>
+    </synonym>
+  </templates>
+  <templates uuid="a352dd58-8325-47ad-a45c-458b2d935186">
+    <name>Печать_Форма2020_4_ЛистВ_5</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист В страница 5</value>
+    </synonym>
+  </templates>
+  <templates uuid="789f32ee-0052-4ff7-943d-53a8452c983f">
+    <name>Печать_Форма2020_4_ЛистВ_6</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист В страница 6</value>
+    </synonym>
+  </templates>
+  <templates uuid="962fa9fc-62ed-4522-937c-6512e27099f5">
+    <name>Печать_Форма2020_4_ЛистВ_7</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист В страница 7</value>
+    </synonym>
+  </templates>
+  <templates uuid="996f22b2-ac28-4bc1-96e8-3812586eda22">
+    <name>Печать_Форма2020_4_ЛистГ_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Г страница 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="978a51d6-d644-44e7-98ed-ee85c4e29c0c">
+    <name>Печать_Форма2020_4_ЛистГ_10</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Г страница 10</value>
+    </synonym>
+  </templates>
+  <templates uuid="cf67f1d0-7a02-4815-a5fb-8f4ac36fbcef">
+    <name>Печать_Форма2020_4_ЛистГ_2</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Г страница 2</value>
+    </synonym>
+  </templates>
+  <templates uuid="0c65ae55-0e9c-40c2-9556-d632a9f73b6b">
+    <name>Печать_Форма2020_4_ЛистГ_3</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Г страница 3</value>
+    </synonym>
+  </templates>
+  <templates uuid="431c1a2b-d1a7-4931-9117-a8dbfa212e2e">
+    <name>Печать_Форма2020_4_ЛистГ_4</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Г страница 4</value>
+    </synonym>
+  </templates>
+  <templates uuid="20ae2b12-7d33-40e5-b378-148963f197f6">
+    <name>Печать_Форма2020_4_ЛистГ_5</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Г страница 5</value>
+    </synonym>
+  </templates>
+  <templates uuid="fc9a3994-2938-4d2f-8ab1-98145372fe05">
+    <name>Печать_Форма2020_4_ЛистГ_6</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Г страница 6</value>
+    </synonym>
+  </templates>
+  <templates uuid="dcd0253d-de37-4878-b484-64aeae9fb6e0">
+    <name>Печать_Форма2020_4_ЛистГ_7</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Г страница 7</value>
+    </synonym>
+  </templates>
+  <templates uuid="c4b9df8a-e923-4411-a5d4-f0c231d0c1db">
+    <name>Печать_Форма2020_4_ЛистГ_8</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Г страница 8</value>
+    </synonym>
+  </templates>
+  <templates uuid="adbc7c34-25ae-45a2-8f7d-119a52050143">
+    <name>Печать_Форма2020_4_ЛистГ_9</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Г страница 9</value>
+    </synonym>
+  </templates>
+  <templates uuid="e2a55c74-a036-4fb9-b301-f63c52ab988f">
+    <name>Печать_Форма2020_4_ЛистД_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Д страница 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="c9cdfa28-75df-4424-b825-75b01f980838">
+    <name>Печать_Форма2020_4_ЛистД_2</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Д страница 2</value>
+    </synonym>
+  </templates>
+  <templates uuid="70e1b6aa-f376-401c-b1d9-21642cda8a50">
+    <name>Печать_Форма2020_4_ЛистД_3</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Д страница 3</value>
+    </synonym>
+  </templates>
+  <templates uuid="aafaa3be-599c-48c7-ad0b-8f11a852af73">
+    <name>Печать_Форма2020_4_ЛистД_4</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Д страница 4</value>
+    </synonym>
+  </templates>
+  <templates uuid="0fa5499f-fb08-468f-b1be-5434385e6367">
+    <name>Печать_Форма2020_4_ЛистД_5</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Д страница 5</value>
+    </synonym>
+  </templates>
+  <templates uuid="21fad9a4-419c-4b63-bfc5-2e012d993236">
+    <name>Печать_Форма2020_4_ЛистД_6</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Д страница 6</value>
+    </synonym>
+  </templates>
+  <templates uuid="17c0346f-a459-4f89-a8e2-12e9decdc4da">
+    <name>Печать_Форма2020_4_ЛистД_7</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Д страница 7</value>
+    </synonym>
+  </templates>
+  <templates uuid="9215c0a6-6179-4cde-868e-7a23b2105ead">
+    <name>Печать_Форма2020_4_ЛистД_8</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Д страница 8</value>
+    </synonym>
+  </templates>
+  <templates uuid="ffe05ee4-7fc1-4f9c-8d5f-88ae5e4825e7">
+    <name>Печать_Форма2020_4_ЛистЕ_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Е страница 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="aa5fe8fa-7444-4f0c-949e-cd989fa92fd0">
+    <name>Печать_Форма2020_4_ЛистЕ_2</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Е страница 2</value>
+    </synonym>
+  </templates>
+  <templates uuid="35b8fa22-b890-4626-b31e-3a43c19f5c0c">
+    <name>Печать_Форма2020_4_ЛистЕ_3</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Е страница 3</value>
+    </synonym>
+  </templates>
+  <templates uuid="86ce12b2-b85f-498f-b48d-3aafbfa52f72">
+    <name>Печать_Форма2020_4_ЛистЕ_4</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Е страница 4</value>
+    </synonym>
+  </templates>
+  <templates uuid="fe62c5f2-24fa-40ea-9dd2-35aaa24cfb99">
+    <name>Печать_Форма2020_4_ЛистЕ_5</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Е страница 5</value>
+    </synonym>
+  </templates>
+  <templates uuid="9b971e70-ab47-4b92-b63e-5daf7b12c265">
+    <name>Печать_Форма2020_4_ЛистЕ_6</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Е страница 6</value>
+    </synonym>
+  </templates>
+  <templates uuid="25ce03ce-72fa-4283-9fed-375091cf4f04">
+    <name>Печать_Форма2020_4_ЛистЕ_7</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Е страница 7</value>
+    </synonym>
+  </templates>
+  <templates uuid="8c67e81b-776a-4a18-8ba6-cbd7a7b91260">
+    <name>Печать_Форма2020_4_ЛистЖ_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Ж страница 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="6f3cd6f2-cd9a-40b1-957e-57bb84dde841">
+    <name>Печать_Форма2020_4_ЛистЖ_2</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Ж страница 2</value>
+    </synonym>
+  </templates>
+  <templates uuid="90db6168-7889-46d9-87e5-0ee38b464e20">
+    <name>Печать_Форма2020_4_ЛистЖ_3</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Ж страница 3</value>
+    </synonym>
+  </templates>
+  <templates uuid="8bfd68ce-9121-4b6e-9da9-e1206d81b079">
+    <name>Печать_Форма2020_4_ЛистЖ_4</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Ж страница 4</value>
+    </synonym>
+  </templates>
+  <templates uuid="dc241b05-b0e6-4d4e-a2cf-5e00afeb6ba1">
+    <name>Печать_Форма2020_4_ЛистЖ_5</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Ж страница 5</value>
+    </synonym>
+  </templates>
+  <templates uuid="fa08d672-4c94-4f5f-85fb-0de9861743c1">
+    <name>Печать_Форма2020_4_ЛистЖ_6</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Ж страница 6</value>
+    </synonym>
+  </templates>
+  <templates uuid="39962496-529c-450c-a0e8-071a053b126a">
+    <name>Печать_Форма2020_4_ЛистЖ_7</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Ж страница 7</value>
+    </synonym>
+  </templates>
+  <templates uuid="aad14cf6-2323-4c40-b07e-ddd1b3f5e570">
+    <name>Печать_Форма2020_4_ЛистЗ_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист З страница 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="245e7ef2-8a1c-4e1c-9b81-5abeadd46c7f">
+    <name>Печать_Форма2020_4_ЛистЗ_2</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист З страница 2</value>
+    </synonym>
+  </templates>
+  <templates uuid="0f72f75c-e5d0-4a82-9e2d-ea57c5f82d8e">
+    <name>Печать_Форма2020_4_ЛистЗ_3</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист З страница 3</value>
+    </synonym>
+  </templates>
+  <templates uuid="908582b4-4abe-4d04-910c-ed72377ad0f0">
+    <name>Печать_Форма2020_4_ЛистЗ_4</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист З страница 4</value>
+    </synonym>
+  </templates>
+  <templates uuid="62374994-a8cd-4212-bb14-7052419a8a25">
+    <name>Печать_Форма2020_4_ЛистЗ_5</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист З страница 5</value>
+    </synonym>
+  </templates>
+  <templates uuid="c725e34d-e64e-47fc-8ebe-cce4462d9add">
+    <name>Печать_Форма2020_4_ЛистИ_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист И страница 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="46d16690-151d-4927-87a5-6f5818a29873">
+    <name>Печать_Форма2020_4_ЛистИ_2</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист И страница 2</value>
+    </synonym>
+  </templates>
+  <templates uuid="3afa2b52-57b9-42e5-a360-4b8528f0988e">
+    <name>Печать_Форма2020_4_ЛистК_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист К страница 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="93c32875-69ef-49a0-8bcd-db8bec0b6ad1">
+    <name>Печать_Форма2020_4_ЛистК_2</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист К страница 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="1b649e5c-554b-4682-9628-580928e7fa90">
+    <name>Печать_Форма2020_4_ЛистЛ_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Л страница 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="1e298f2d-3757-4cd3-a600-74fa45eba102">
+    <name>Печать_Форма2020_4_ЛистЛ_2</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Л страница 2</value>
+    </synonym>
+  </templates>
+  <templates uuid="efd4dced-7d63-4ee3-9304-22f921b3bf55">
+    <name>Печать_Форма2020_4_ЛистМ</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист М</value>
+    </synonym>
+  </templates>
+  <templates uuid="2593bfff-23ea-490c-869b-5c7eb2a02ffa">
+    <name>Печать_Форма2020_4_ЛистН_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Н страница 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="63acfea7-6625-4389-ae78-b787095c123c">
+    <name>Печать_Форма2020_4_ЛистН_2</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 Лист Н страница 2</value>
+    </synonym>
+  </templates>
+  <templates uuid="57801d10-a92c-490d-8059-a7e536279546">
+    <name>Печать_Форма2020_4_Страница1</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 страница 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="41e1e8ab-9a55-4b56-8c3a-bcb3945ac0c5">
+    <name>Печать_Форма2020_4_Страница2</name>
+    <synonym>
+      <key>ru</key>
+      <value>МЧБ Форма Р13014 страница 2</value>
+    </synonym>
+  </templates>
+  <templates uuid="c7968c6c-f0af-437b-b9bb-f51767c0e4b2">
+    <name>СпискиВыбора2020_4</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списки выбора формы Р11001</value>
+    </synonym>
+  </templates>
+  <templates uuid="a49147ec-a17c-4599-a2b6-d47e0bb415f9">
+    <name>СхемаВыгрузкиФорма2020_4</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки форма2020 4</value>
+    </synonym>
+  </templates>
+  <templates uuid="8ec01267-78d1-48af-a55a-f89de7233365">
+    <name>Форма2020_4_ЛистА</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма Р13014 лист А</value>
+    </synonym>
+  </templates>
+  <templates uuid="2ce34134-9543-4eaf-9b1e-933e72b75858">
+    <name>Форма2020_4_ЛистБ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма Р13014 лист Б</value>
+    </synonym>
+  </templates>
+  <templates uuid="de846da9-3928-46ec-8ca8-b601477758db">
+    <name>Форма2020_4_ЛистВ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма Р13014 лист В</value>
+    </synonym>
+  </templates>
+  <templates uuid="1416cc0e-172c-40f1-8e05-029aad961e75">
+    <name>Форма2020_4_ЛистГ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма Р13014 лист Г</value>
+    </synonym>
+  </templates>
+  <templates uuid="362fe686-4cc1-4359-b746-3df8314c7bdc">
+    <name>Форма2020_4_ЛистД</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма Р13014 лист Д</value>
+    </synonym>
+  </templates>
+  <templates uuid="6d1cc6a2-eabb-4994-a7c3-1bf12dcb5710">
+    <name>Форма2020_4_ЛистЕ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма Р13014 лист Е</value>
+    </synonym>
+  </templates>
+  <templates uuid="d0348575-35e4-478c-aad9-d04d695d59c4">
+    <name>Форма2020_4_ЛистЖ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма Р13014 лист Ж</value>
+    </synonym>
+  </templates>
+  <templates uuid="4775681e-7179-4bfb-bcd5-f7a4d57ac563">
+    <name>Форма2020_4_ЛистЗ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма Р13014 лист З</value>
+    </synonym>
+  </templates>
+  <templates uuid="a99c8591-fdc7-4131-b055-87b0c97b4b8c">
+    <name>Форма2020_4_ЛистИ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма Р13014 лист И</value>
+    </synonym>
+  </templates>
+  <templates uuid="128b2531-28d1-46b4-bef8-1282e6751f9d">
+    <name>Форма2020_4_ЛистК</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма Р13014 лист К</value>
+    </synonym>
+  </templates>
+  <templates uuid="516fb14c-735d-45ef-9182-1638a5798e99">
+    <name>Форма2020_4_ЛистЛ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма Р13014 лист Л</value>
+    </synonym>
+  </templates>
+  <templates uuid="347cf1ca-c85a-43a9-96e7-f34980eb15df">
+    <name>Форма2020_4_ЛистМ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма Р13014 лист М</value>
+    </synonym>
+  </templates>
+  <templates uuid="3832a017-da82-49bc-a4be-a60fc2d173e3">
+    <name>Форма2020_4_ЛистН</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма Р13014 лист Н</value>
+    </synonym>
+  </templates>
+  <templates uuid="57020cdf-93c7-4185-82c8-56586d5d621c">
+    <name>Форма2020_4_Страница1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма Р13014 страница 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="60ea1bca-475c-4773-bd95-cd37bbba8bad">
+    <name>Форматы2020_4</name>
+    <synonym>
+      <key>ru</key>
+      <value>Специальные форматы полей ввода формы Р11001</value>
+    </synonym>
+  </templates>
+</mdclass:Report>

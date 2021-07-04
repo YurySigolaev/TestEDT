@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonCommand xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c6b63fc7-13b6-4927-9fc0-43844850f703">
+  <name>СформироватьДокументыДООбъектыЭДО</name>
+  <synonym>
+    <key>ru</key>
+    <value>Синхронизировать документы 1С:Документооборот и объекты ЭДО</value>
+  </synonym>
+  <group>ActionsPanelTools</group>
+  <commandParameterType/>
+  <representation>Auto</representation>
+  <toolTip>
+    <key>ru</key>
+    <value>Синхронизировать документы 1С:Документооборот и объекты ЭДО.</value>
+  </toolTip>
+  <shortcut></shortcut>
+</mdclass:CommonCommand>

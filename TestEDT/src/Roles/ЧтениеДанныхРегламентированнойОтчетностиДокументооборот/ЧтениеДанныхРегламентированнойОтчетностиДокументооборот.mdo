@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7b96590a-18b8-4de1-bc06-0865d7439a63">
+  <name>ЧтениеДанныхРегламентированнойОтчетностиДокументооборот</name>
+  <synonym>
+    <key>ru</key>
+    <value>Чтение данных регламентированной отчетности (Документооборот)</value>
+  </synonym>
+  <comment>Простая реализация без ограничений доступа</comment>
+</mdclass:Role>

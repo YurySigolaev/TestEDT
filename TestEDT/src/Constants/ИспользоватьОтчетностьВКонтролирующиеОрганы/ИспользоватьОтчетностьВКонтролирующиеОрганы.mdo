@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="db508d49-63f3-4115-ae40-996824cf0537">
+  <producedTypes>
+    <managerType typeId="046b17c7-88a3-4a3b-b86b-0cf9ab612913" valueTypeId="ae82a57e-e2ae-430c-a1f9-560caf9fd622"/>
+    <valueManagerType typeId="3e150791-6285-4e60-bcc7-4dcf2757a248" valueTypeId="02247a56-6c86-4d46-91b3-fe8f0551428c"/>
+    <valueKeyType typeId="ce703a58-9ff8-42c8-96fc-d9d9943964f6" valueTypeId="12057587-0bfd-459a-9b49-78a7f439945d"/>
+  </producedTypes>
+  <name>ИспользоватьОтчетностьВКонтролирующиеОрганы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Использовать регламентированную отчетность в контролирующие органы</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

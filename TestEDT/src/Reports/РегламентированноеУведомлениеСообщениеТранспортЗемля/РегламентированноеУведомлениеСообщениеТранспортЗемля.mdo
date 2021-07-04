@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e91a88d9-b596-4ea9-8d78-d467296e114d">
+  <producedTypes>
+    <objectType typeId="23283e24-4b20-4b63-8c13-661777d866d8" valueTypeId="8d855c23-ee87-4e6f-9ffc-484eae6377df"/>
+    <managerType typeId="086a6f7d-5900-4e87-8adc-0cb2a1cea67e" valueTypeId="482585ca-21c4-4699-823a-bbbca428a7f5"/>
+  </producedTypes>
+  <name>РегламентированноеУведомлениеСообщениеТранспортЗемля</name>
+  <synonym>
+    <key>ru</key>
+    <value>Сообщение о наличии транспортных средств и (или) земельных участков</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>CommonForm.ИнформацияОНевозможностиОткрытияУведомления</defaultForm>
+  <forms uuid="57a3b0db-b51e-4ff0-8342-1d90b8b4582e">
+    <name>Форма2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сообщение о наличии транспортных средств и (или) земельных участков</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="0d2f2a56-5228-4fbf-b6d3-7e45ba16199b">
+    <name>Печать_Форма2020_1_Титульная</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сообщение о наличии транспортных средств и (или) земельных участков</value>
+    </synonym>
+  </templates>
+  <templates uuid="54792ef8-8a97-4217-b389-34ae44873790">
+    <name>Печать_Форма2020_1_Транспорт</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сообщение о наличии транспортных средств и (или) земельных участков</value>
+    </synonym>
+  </templates>
+  <templates uuid="ef1fabe5-759a-4359-9eef-b64e2224ba6f">
+    <name>Печать_Форма2020_1_Земля</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сообщение о наличии транспортных средств и (или) земельных участков</value>
+    </synonym>
+  </templates>
+  <templates uuid="76d018ef-4ff0-44b5-9b9f-b08b144a64d5">
+    <name>СхемаВыгрузкиФорма2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сообщение о наличии транспортных средств и (или) земельных участков</value>
+    </synonym>
+  </templates>
+  <templates uuid="723c87c9-e059-45f8-931a-ec98b3c61299">
+    <name>TIFF_2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сообщение о наличии транспортных средств и (или) земельных участков</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="2a731ebe-6624-448e-979e-d7070f8add85">
+    <name>СпискиВыбора2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сообщение о наличии транспортных средств и (или) земельных участков</value>
+    </synonym>
+  </templates>
+  <templates uuid="238fae72-b20c-4a03-a27f-f18af04a484e">
+    <name>Титульная_2020</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сообщение о наличии транспортных средств и (или) земельных участков</value>
+    </synonym>
+  </templates>
+  <templates uuid="f0739d2f-18cd-4be8-b89a-c384e63cecbd">
+    <name>Транспорт_2020</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сообщение о наличии транспортных средств и (или) земельных участков</value>
+    </synonym>
+  </templates>
+  <templates uuid="10b8d35c-96a9-4183-8f33-3ee5094c3fa3">
+    <name>Земля_2020</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сообщение о наличии транспортных средств и (или) земельных участков</value>
+    </synonym>
+  </templates>
+</mdclass:Report>

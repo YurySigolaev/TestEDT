@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="09459bab-adf4-45b5-8eb4-aa4c9acc7970">
+  <producedTypes>
+    <managerType typeId="b8345f61-fd39-4722-a6ed-93c20f08e870" valueTypeId="bff454b1-119c-4798-acce-9d767159f948"/>
+    <valueManagerType typeId="bea77b03-b829-42ab-97ef-3381ed930e52" valueTypeId="f11eac1b-64f8-4f20-9cbd-45ceb88811b9"/>
+    <valueKeyType typeId="7a8b6d70-11b0-486e-91c2-4ea6d092a781" valueTypeId="5acd4089-fd9c-4d42-bb8b-8d62ac2c1508"/>
+  </producedTypes>
+  <name>СрокХраненияПротоколаРаботыССервисомРаспознавания</name>
+  <synonym>
+    <key>ru</key>
+    <value>Срок хранения протокола работы с сервисом распознавания</value>
+  </synonym>
+  <comment>в днях</comment>
+  <type>
+    <types>Number</types>
+    <numberQualifiers>
+      <precision>3</precision>
+      <nonNegative>true</nonNegative>
+    </numberQualifiers>
+  </type>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

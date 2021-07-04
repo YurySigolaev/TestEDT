@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9ac15e9d-9a60-4e91-89d1-c427192c16f2">
+  <producedTypes>
+    <selectionType typeId="0fc8b545-8594-4083-96d9-6a9d538908a5" valueTypeId="4c652fbd-aecd-4a43-bd86-f206676ac524"/>
+    <listType typeId="ff9dab11-328a-4593-9ed6-32d0935e748a" valueTypeId="89da6ff2-2248-44b4-a58e-a82f504cf6f9"/>
+    <managerType typeId="081398f9-3e6a-4a7e-8189-53273bc2da07" valueTypeId="8444afa9-3feb-48f5-a39d-88a6ef79f7ce"/>
+    <recordSetType typeId="7e6154b8-64fb-4a4c-979e-a73499864c56" valueTypeId="987e0a21-db22-4ce6-94eb-c41789c61d22"/>
+    <recordKeyType typeId="d5195dc9-a2ed-4269-b6c2-5235ddf9d434" valueTypeId="d6f1a8a0-eb67-4d5c-b684-4c6f419f9f95"/>
+    <recordType typeId="7899bad8-55e5-4c9e-8fd8-73fc11505cfd" valueTypeId="32fa29ba-8eeb-4f3f-a842-663caa57efe5"/>
+    <recordManagerType typeId="f30b8666-51a7-4ed2-b0e3-1534d02352fb" valueTypeId="ca074f59-ed67-49cc-bca1-920371b5f82e"/>
+  </producedTypes>
+  <name>ПротоколРаботыССервисомРаспознавания</name>
+  <synonym>
+    <key>ru</key>
+    <value>Протокол работы с сервисом распознавания</value>
+  </synonym>
+  <editType>InDialog</editType>
+  <defaultRecordForm>InformationRegister.ПротоколРаботыССервисомРаспознавания.Form.ФормаЗаписи</defaultRecordForm>
+  <defaultListForm>InformationRegister.ПротоколРаботыССервисомРаспознавания.Form.ФормаСписка</defaultListForm>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Active</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>LineNumber</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Recorder</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Period</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fillChecking>ShowError</fillChecking>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="f1c24c30-d85d-4576-b3c3-d3d3ba04aa5e">
+    <name>Ответ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ответ</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>500</length>
+      </stringQualifiers>
+    </type>
+    <multiLine>true</multiLine>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:StringValue">
+      <value></value>
+    </fillValue>
+  </resources>
+  <dimensions uuid="2ec453e4-4d03-406a-b0a2-d4ae813c7a5b">
+    <name>УниверсальнаяДатаВМиллисекундах</name>
+    <synonym>
+      <key>ru</key>
+      <value>Универ. дата</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>15</precision>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+  <dimensions uuid="90769541-91c6-48f9-8fc9-da3c105ce0ff">
+    <name>Группа</name>
+    <synonym>
+      <key>ru</key>
+      <value>Группа</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>36</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <indexing>Index</indexing>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:StringValue">
+      <value></value>
+    </fillValue>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+  <dimensions uuid="f4c92c36-0726-4d51-b242-8dc1a0d6326d">
+    <name>Запрос</name>
+    <synonym>
+      <key>ru</key>
+      <value>Запрос</value>
+    </synonym>
+    <type>
+      <types>EnumRef.ЗапросыКСервисуРаспознавания</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+  <forms uuid="f10c29ae-e01e-485c-acc6-e1ff16921520">
+    <name>ЗапросыГрупп</name>
+    <synonym>
+      <key>ru</key>
+      <value>Запросы групп</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="b69f6043-ca9b-4673-a069-29f928b4ee5e">
+    <name>ФормаЗаписи</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма записи</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="8d33f4db-68e7-4f02-a66a-8643b0eaaba1">
+    <name>ФормаСписка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма списка</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <commands uuid="bbf4a68a-c2cc-4caa-828f-4eb7793a4c54">
+    <name>ПротоколРаботыССервисомРаспознавания</name>
+    <synonym>
+      <key>ru</key>
+      <value>Протокол работы с сервисом распознавания</value>
+    </synonym>
+    <group>ActionsPanelTools</group>
+    <commandParameterType/>
+    <representation>Auto</representation>
+    <shortcut></shortcut>
+  </commands>
+</mdclass:InformationRegister>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="466cb5a0-7a44-4d90-bb09-fc45bd0a4839">
+  <producedTypes>
+    <objectType typeId="783e234b-8d9a-4bc3-9e10-7def992e0912" valueTypeId="c99c4750-6786-435f-b70e-5cc7330adfa3"/>
+    <managerType typeId="ea37c06a-0b83-4e8e-b8b8-b44a277c2101" valueTypeId="ca0fe708-f717-419b-9537-eb04670f0127"/>
+  </producedTypes>
+  <name>РегламентированноеУведомлениеЗаявлениеНаСубсидиюДляЗарплаты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Заявление на субсидию для зарплаты</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>CommonForm.ИнформацияОНевозможностиОткрытияУведомления</defaultForm>
+  <forms uuid="5643580c-d295-487a-a6d5-ade03c73cc46">
+    <name>Форма2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявление на субсидию для зарплаты</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="35ee675f-5c4b-494c-a5ad-5755a3660799">
+    <name>СхемаВыгрузкиФорма2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявление на субсидию для зарплаты</value>
+    </synonym>
+  </templates>
+  <templates uuid="90640eda-28e3-4436-9f36-b89de880fec9">
+    <name>Титульная</name>
+    <synonym>
+      <key>ru</key>
+      <value>Титульная</value>
+    </synonym>
+  </templates>
+  <templates uuid="0a7b7a01-1a78-4b22-8c6b-f41c66bd8639">
+    <name>СпискиВыбора2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списки выбора</value>
+    </synonym>
+  </templates>
+  <templates uuid="e3c9a9f0-d8fa-477d-a053-963392ce0a8f">
+    <name>Печать_Форма2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявление на субсидию для зарплаты</value>
+    </synonym>
+  </templates>
+</mdclass:Report>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b470d432-a6df-4511-a5ee-5f8eeec5336e">
+  <producedTypes>
+    <objectType typeId="9736594e-1e2b-4173-b01c-78b443771a85" valueTypeId="c1c1d53b-5dc4-4eae-bd6f-6bea401b89ef"/>
+    <managerType typeId="91aee954-af89-4505-a982-4826e19b8fb1" valueTypeId="09ff50c4-a42a-443f-8c1e-3e6b00d505ea"/>
+  </producedTypes>
+  <name>РегламентированноеУведомлениеОДДС</name>
+  <synonym>
+    <key>ru</key>
+    <value>Отчет о движении средств по счету в банке за пределами РФ</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>CommonForm.ИнформацияОНевозможностиОткрытияУведомления</defaultForm>
+  <forms uuid="a3ec96ed-ab05-4de7-92ea-1cf79255ab1c">
+    <name>Форма2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отчет о движении средств по счету в банке за пределами РФ</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="573b35ce-22bc-4092-aa29-70ca8e646e63">
+    <name>СхемаВыгрузкиФорма2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки форма2020 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="b4545d6d-517e-40a1-97fa-f9427d83818a">
+    <name>СпискиВыбора2020_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списки выбора2020 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="cd7282ee-137a-4bd5-b6e7-96469e189ef3">
+    <name>Печать_Форма2020_1_Титульная</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уведомление о контролируемых иностранных компаниях/титульная страница</value>
+    </synonym>
+  </templates>
+  <templates uuid="08197264-aac1-4c7b-9702-3c9488c3bc73">
+    <name>Печать_Форма2020_1_Лист2</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отчет о движении средств по счету в банке за пределами РФ</value>
+    </synonym>
+  </templates>
+  <templates uuid="0d603c91-d58a-45b7-bde7-e008ba8251f2">
+    <name>Печать_Форма2020_1_Лист3</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отчет о движении средств по счету в банке за пределами РФ</value>
+    </synonym>
+  </templates>
+  <templates uuid="bac1c196-96ad-4dcd-a826-21d5c6f9b757">
+    <name>Печать_Форма2020_1_Лист4</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отчет о движении средств по счету в банке за пределами РФ</value>
+    </synonym>
+  </templates>
+  <templates uuid="a51059c9-8f05-48d5-b087-bfd0e47f4974">
+    <name>Печать_Форма2020_1_Лист5</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отчет о движении средств по счету в банке за пределами РФ</value>
+    </synonym>
+  </templates>
+  <templates uuid="48ab07a6-5f40-44f6-81a5-4f96e9aa02d9">
+    <name>Титульная</name>
+    <synonym>
+      <key>ru</key>
+      <value>Титульная</value>
+    </synonym>
+  </templates>
+  <templates uuid="dd2169e7-30a3-4656-8ad3-5a7726da002a">
+    <name>Лист2</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отчет о движении средств по счету в банке за пределами РФ</value>
+    </synonym>
+  </templates>
+  <templates uuid="8609ec5e-b208-4084-ab73-6bbafe404f1e">
+    <name>Лист3</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отчет о движении средств по счету в банке за пределами РФ</value>
+    </synonym>
+  </templates>
+  <templates uuid="bb3956de-7343-4bf9-bee3-259bbbd870a4">
+    <name>Лист4</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отчет о движении средств по счету в банке за пределами РФ</value>
+    </synonym>
+  </templates>
+  <templates uuid="68087db8-0035-476f-97bd-28553bf19291">
+    <name>Лист5</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отчет о движении средств по счету в банке за пределами РФ</value>
+    </synonym>
+  </templates>
+</mdclass:Report>

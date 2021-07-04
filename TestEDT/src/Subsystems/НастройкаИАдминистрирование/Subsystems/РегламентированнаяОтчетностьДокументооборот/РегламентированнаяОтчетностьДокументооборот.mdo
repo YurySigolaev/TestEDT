@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bc84624c-fa43-4a1e-bdc2-a0d41c541e4d">
+  <name>РегламентированнаяОтчетностьДокументооборот</name>
+  <synonym>
+    <key>ru</key>
+    <value>Настройки 1С:Отчетности</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>CommonCommand.ОткрытьФормуУправлениеОтчетностью</content>
+  <content>FunctionalOption.ИспользоватьОтчетностьВКонтролирующиеОрганы</content>
+  <content>InformationRegister.ПравилаУчетаДокументовОбменСКО</content>
+  <parentSubsystem>Subsystem.НастройкаИАдминистрирование</parentSubsystem>
+</mdclass:Subsystem>

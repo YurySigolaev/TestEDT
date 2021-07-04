@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e0f5d47b-bbd4-43b2-bcb7-17351e790d2c">
+  <name>СдачаОтчетностиВБанкРоссии</name>
+  <synonym>
+    <key>ru</key>
+    <value>Сдача отчетности в Банк России</value>
+  </synonym>
+  <content>CommonForm.ВыборСертификата</content>
+  <content>CommonModule.ДокументооборотСБанкомРоссииКлиент</content>
+  <content>CommonForm.СписокСертификатов</content>
+  <content>CommonModule.ДокументооборотСБанкомРоссииСлужебныйКлиент</content>
+  <content>CommonModule.ДокументооборотСБанкомРоссииКлиентСервер</content>
+  <content>InformationRegister.НастройкиОбменаБанкРоссии</content>
+  <content>Catalog.ОтправкиБанкРоссии</content>
+  <content>CommonModule.ДокументооборотСБанкомРоссииВызовСервера</content>
+  <content>CommonModule.ДокументооборотСБанкомРоссии</content>
+  <content>CommonForm.ПротоколОбработкиБанкРоссии</content>
+  <content>CommonTemplate.ШаблонПротоколаБанкРоссии</content>
+  <content>CommonForm.СписокУЦ</content>
+  <content>DefinedType.ПредметОтправкиОтчетаБанкаРоссии</content>
+  <parentSubsystem>Subsystem.РегламентированнаяОтчетность.Subsystem.ЭлектронныйДокументооборотСКонтролирующимиОрганами</parentSubsystem>
+</mdclass:Subsystem>
