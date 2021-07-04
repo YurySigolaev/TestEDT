@@ -14654,10 +14654,10 @@
     </items>
     <items xsi:type="form:FormGroup">
       <name>Группа1</name>
-      <id>1194</id>
+      <id>1199</id>
       <items xsi:type="form:Button">
         <name>Команда2</name>
-        <id>1197</id>
+        <id>1201</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -14866,6 +14866,56 @@
             <textEdit>true</textEdit>
           </extInfo>
         </items>
+        <items xsi:type="form:FormField">
+          <name>ТабличнаяЧасть1Тег</name>
+          <id>1194</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
+          <dataPath xsi:type="form:DataPath">
+            <segments>Объект.ТабличнаяЧасть1.Тег</segments>
+          </dataPath>
+          <extendedTooltip>
+            <name>ТабличнаяЧасть1ТегРасширеннаяПодсказка</name>
+            <id>1196</id>
+            <visible>true</visible>
+            <enabled>true</enabled>
+            <userVisible>
+              <common>true</common>
+            </userVisible>
+            <type>Label</type>
+            <autoMaxWidth>true</autoMaxWidth>
+            <autoMaxHeight>true</autoMaxHeight>
+            <extInfo xsi:type="form:LabelDecorationExtInfo">
+              <horizontalAlign>Left</horizontalAlign>
+            </extInfo>
+          </extendedTooltip>
+          <contextMenu>
+            <name>ТабличнаяЧасть1ТегКонтекстноеМеню</name>
+            <id>1195</id>
+            <visible>true</visible>
+            <enabled>true</enabled>
+            <userVisible>
+              <common>true</common>
+            </userVisible>
+            <autoFill>true</autoFill>
+          </contextMenu>
+          <type>InputField</type>
+          <editMode>Enter</editMode>
+          <showInHeader>true</showInHeader>
+          <headerHorizontalAlign>Left</headerHorizontalAlign>
+          <showInFooter>true</showInFooter>
+          <extInfo xsi:type="form:InputFieldExtInfo">
+            <autoMaxWidth>true</autoMaxWidth>
+            <autoMaxHeight>true</autoMaxHeight>
+            <wrap>true</wrap>
+            <chooseType>true</chooseType>
+            <typeDomainEnabled>true</typeDomainEnabled>
+            <textEdit>true</textEdit>
+          </extInfo>
+        </items>
         <autoCommandBar>
           <name>ТабличнаяЧасть1КоманднаяПанель</name>
           <id>1173</id>
@@ -15036,7 +15086,7 @@
       </items>
       <items xsi:type="form:Button">
         <name>Команда1</name>
-        <id>1196</id>
+        <id>1202</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -15076,7 +15126,7 @@
       </title>
       <extendedTooltip>
         <name>Группа1РасширеннаяПодсказка</name>
-        <id>1195</id>
+        <id>1200</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
